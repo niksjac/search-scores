@@ -1,0 +1,36 @@
+{
+  "pdf_viewer": "evince",
+  "gui": {
+    "background_color": "#000000",
+    "text_color": "#FFFFFF",
+    "search_background_color": "#000000",
+    "search_text_color": "#FFFFFF",
+    "list_background_color": "#000000",
+    "list_text_color": "#FFFFFF",
+    "font_family": "consolas",
+    "font_size": 14,
+    "title_font_size": 15,
+    "padding": 15,
+    "spacing": 15,
+    "listview_icon_path": "res/sheetmusic.ico",
+    "logo_icon_path": "res/silhouette-wh.png",
+    "logo_title_text": "Sheet Music Library",
+    "osk": {
+      "button_size": [60, 50],
+      "space_button_size": [300, 50],
+      "backspace_button_size": [100, 50],
+      "toggle_case_button_size": [80, 50],
+      "delete_button_size": [100, 50],
+      "font_size": 18,
+      "button_spacing": 2,
+      "row_spacing": 2,
+      "rows": [
+        ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "Backspace"],
+        ["Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "Å"],
+        ["A", "S", "D", "F", "G", "H", "J", "K", "L", "Æ", "Ø"],
+        ["Z", "X", "C", "V", "B", "N", "M", ".", ",", "-"],
+        ["Delete", "Toggle Case", "Space", "Left", "Right"]
+      ]
+    }
+  }
+}
